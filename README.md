@@ -1,9 +1,9 @@
 # HTML and CSS Projects
 This is a display of sample websites that I made using HTML and CSS.
 ## Projects
-[^1] Space Station Site 
-[^2] [Portfolio Site](https://ahmed-ghafoori.github.io/Portfolio/)
-[^3] [Movie Theater Site](https://github.com/Ahmed-Ghafoori/AOLwork/blob/main/CSSassignment.html)
+[^1]: Space Station Site 
+[^2]: [Portfolio Site](https://ahmed-ghafoori.github.io/Portfolio/)
+[^3]: [Movie Theater Site](https://github.com/Ahmed-Ghafoori/AOLwork/blob/main/CSSassignment.html)
 ### Space Station Site
 This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar, image containers, and a form.
 ### Portfolio Site
